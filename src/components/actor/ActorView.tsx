@@ -38,7 +38,7 @@ function ActorView() {
         <div className="container mx-auto px-4">
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
                 <div className="md:flex">
-                    <div className="md:w-1/3 h-96 flex items-center justify-center">
+                    <div className="md:w-1/3 flex items-center justify-center">
                         <img
                             src={actor.urlImage}
                             alt={actor.name}
